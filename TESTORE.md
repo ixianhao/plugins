@@ -11,7 +11,7 @@
 
 ### 使用帮助
 
-本文件为**新版插件仓库**:card_file_box:[**TeStore**](TeStore)获取插件列表数据专用，内容为Markdown格式文本，解析部分为下方表格的Html源码，在“设置”-“插件信息来源”中填写地址 https://github.com/typecho-fans/plugins/blob/master/TESTORE.md 即可生效。
+本文件为**新版插件仓库**:card_file_box:[**TeStore**](TeStore)获取插件列表数据专用，内容为Markdown格式文本，解析部分为下方表格的Html源码，在“设置”-“插件信息来源”中填写地址 https://github.com/ixianhao/plugins/blob/master/TESTORE.md 即可生效。
 
 ### 编辑说明
 
